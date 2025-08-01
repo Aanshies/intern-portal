@@ -45,7 +45,7 @@ git clone [intern-portal-backend](https://github.com/Aanshies/intern-portal/tree
 git clone [YOUR_FRONTEND_REPO_URL](https://github.com/Aanshies/intern-portal/tree/main/intern-portal-frontend)
 ```
 
-☕ 2. Run the Backend
+### ☕ 2. Run the Backend
 
 Navigate to your backend directory and start the server:
 
@@ -56,7 +56,7 @@ npm start
 ```
 The backend will be running at http://localhost:5000.
 
-⚛️ 3. Run the Frontend
+### ⚛️ 3. Run the Frontend
 
 Navigate to your frontend directory. Before running, make sure you update the API URL in src/App.jsx to point to your local backend.
 
@@ -78,7 +78,7 @@ The frontend will be available at http://localhost:5173.
 
 ---
 
-🌐 ## Upcoming Enhancements
+## 🌐 Upcoming Enhancements
 
 ✅ Implement real user authentication with a database (e.g., MongoDB).
 
@@ -90,13 +90,13 @@ The frontend will be available at http://localhost:5173.
 
 ---
 
-🤝 ## Contributing
+## 🤝 Contributing
 
 Contributions, feature suggestions, and issue reports are welcome! Fork the repository, make your changes, and open a pull request.
 
 ---
 
-🪪 ## License
+## 🪪 License
 
 MIT License © 2025
 
