@@ -14,6 +14,14 @@
 
 ---
 
+### 🔗 Live Prototype
+
+**Frontend:** [https://intern-portal-frontend-react.netlify.app/](https://intern-portal-frontend-react.netlify.app/)
+
+**Backend API:** [https://intern-portal-backend-89bc.onrender.com/api/intern-data](https://intern-portal-backend-89bc.onrender.com/api/intern-data)
+
+---
+
 ## 🖼️ App Screenshots
 
 <img width="1056" height="714" alt="Image" src="https://github.com/user-attachments/assets/d8883d0c-f6e3-4e05-b430-b229867a19b8" />
